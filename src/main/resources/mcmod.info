@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Practice",
+  "name": "ModPractice",
+  "description": "A place to practice modding",
+  "version": "1.0",
+  "mcversion": "1.7.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Eamon790"],
+  "credits": "cpw(minecraft forge), Pahimar(teaching me!), Eamon790(Making the mod)",
+  "logoFile": "",
+
+  "dependencies": []
+ }
+ ]
