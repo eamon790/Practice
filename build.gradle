@@ -19,12 +19,12 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = Reference.VERSION;
+version = Reference.MOD_VERSION;
 group= "com.Eamon790.Practice" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = Reference.MOD_ID;
 
 minecraft {
-    version = "1.7.10-10.13.0.1180"
+    version = Reference.FORGE_VERSION
     assetDir = "eclipse/assets"
 }
 
