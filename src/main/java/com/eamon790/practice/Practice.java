@@ -1,5 +1,6 @@
 package com.eamon790.practice;
 import com.eamon790.practice.handler.ConfigurationHandler;
+import com.eamon790.practice.init.ModBlocks;
 import com.eamon790.practice.init.ModItems;
 import com.eamon790.practice.util.LogHelper;
 import cpw.mods.fml.common.FMLCommonHandler;
@@ -28,6 +29,7 @@ public class Practice
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 
         ModItems.init();
+        ModBlocks.init();
     }
 
     @Mod.EventHandler
