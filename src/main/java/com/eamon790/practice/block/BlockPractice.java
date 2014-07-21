@@ -1,5 +1,6 @@
 package com.eamon790.practice.block;
 
+import com.eamon790.practice.creativetab.CreativeTabPractice;
 import com.eamon790.practice.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -16,6 +17,7 @@ public class BlockPractice extends Block
     public BlockPractice(Material material)
     {
         super(material);
+        this.setCreativeTab(CreativeTabPractice.PRACTICE_TAB);
     }
 
     public BlockPractice()

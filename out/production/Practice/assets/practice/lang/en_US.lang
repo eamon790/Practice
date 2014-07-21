@@ -1,2 +1,21 @@
+#-------------------------------------------
+#English localization file for Mod:Practice
+#-------------------------------------------
+
+############################################
+#Item Localizations
+############################################
+
 item.practice:mapleLeaf.name=Maple Leaf
+
+############################################
+#Block Localizations
+############################################
+
 tile.practice:flag.name=Canada Flag
+
+############################################
+#CreativeTab Localizations
+############################################
+
+itemGroup.practice=Practice

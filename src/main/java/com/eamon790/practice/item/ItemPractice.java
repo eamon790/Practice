@@ -1,5 +1,6 @@
 package com.eamon790.practice.item;
 
+import com.eamon790.practice.creativetab.CreativeTabPractice;
 import com.eamon790.practice.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -13,6 +14,7 @@ public class ItemPractice extends Item
     {
         super();
         this.setMaxStackSize(64);
+        this.setCreativeTab(CreativeTabPractice.PRACTICE_TAB);
     }
 
     @Override

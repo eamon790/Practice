@@ -41,7 +41,8 @@ public class Practice
     @Mod.EventHandler
     public static void postInit(FMLPostInitializationEvent postInitEvent)
     {
-        LogHelper.info("PostInit complete");
         if(ConfigurationHandler.isModInTestingPhase) LogHelper.info("Mod is in testing phase");
+
+        LogHelper.info("Post Init complete");
     }
 }

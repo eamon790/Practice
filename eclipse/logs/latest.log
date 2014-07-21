@@ -1,46 +1,42 @@
-[21:39:19] [main/INFO]: Setting user: ForgeDevName
-[21:39:20] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:39:26] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModPractice
-[21:39:26] [Sound Library Loader/INFO]: Sound engine started
-[21:39:28] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:39:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:39:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModPractice
-[21:39:28] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:39:29] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:39:29] [Sound Library Loader/INFO]: Sound engine started
-[21:39:34] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[21:39:34] [Server thread/INFO]: Generating keypair
-[21:39:34] [Server thread/INFO]: Preparing start region for level 0
-[21:39:35] [Server thread/INFO]: Preparing spawn area: 77%
-[21:39:36] [Server thread/INFO]: Changing view distance to 12, from 10
-[21:39:36] [Server thread/INFO]: ForgeDevName[local:E:27d50de0] logged in with entity id 12 at (-5.436386561768947, 237.0, 128.07142421106713)
-[21:39:36] [Server thread/INFO]: ForgeDevName joined the game
-[21:39:47] [Client thread/INFO]: [CHAT] Practice:tile.practice:flag, Practice:item.practice:mapleLeaf
-[21:39:55] [Server thread/INFO]: [ForgeDevName: Given [Canada Flag] * 1 to ForgeDevName]
-[21:39:55] [Client thread/INFO]: [CHAT] Given [Canada Flag] * 1 to ForgeDevName
-[21:40:04] [Server thread/INFO]: [ForgeDevName: Given [Canada Flag] * 1 to ForgeDevName]
-[21:40:04] [Client thread/INFO]: [CHAT] Given [Canada Flag] * 1 to ForgeDevName
-[21:40:23] [Client thread/INFO]: [CHAT] There is no such item with ID 64
-[21:40:25] [Server thread/INFO]: Saving and pausing game...
-[21:40:25] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
-[21:40:25] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
-[21:40:25] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
-[21:40:39] [Server thread/INFO]: [ForgeDevName: Given [Canada Flag] * 64 to ForgeDevName]
-[21:40:39] [Client thread/INFO]: [CHAT] Given [Canada Flag] * 64 to ForgeDevName
-[21:40:58] [Server thread/INFO]: [ForgeDevName: Set own game mode to Creative Mode]
-[21:40:58] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:41:02] [Server thread/INFO]: [ForgeDevName: Set own game mode to Survival Mode]
-[21:41:02] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:41:07] [Server thread/INFO]: [ForgeDevName: Set own game mode to Survival Mode]
-[21:41:07] [Client thread/INFO]: [CHAT] Your game mode has been updated
-[21:41:27] [Server thread/INFO]: Saving and pausing game...
-[21:41:27] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
-[21:41:27] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
-[21:41:27] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
-[21:45:30] [Server thread/INFO]: Stopping server
-[21:45:30] [Server thread/INFO]: Saving players
-[21:45:30] [Server thread/INFO]: Saving worlds
-[21:45:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
-[21:45:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
-[21:45:30] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
-[21:45:31] [Client thread/INFO]: Stopping!
+[16:29:32] [main/INFO]: Setting user: ForgeDevName
+[16:29:33] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:29:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModPractice
+[16:29:42] [Sound Library Loader/INFO]: Sound engine started
+[16:29:43] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:29:43] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:29:43] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:ModPractice
+[16:29:44] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:29:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:29:45] [Sound Library Loader/INFO]: Sound engine started
+[16:29:54] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:29:54] [Server thread/INFO]: Generating keypair
+[16:29:54] [Server thread/INFO]: Preparing start region for level 0
+[16:29:55] [Server thread/INFO]: Preparing spawn area: 72%
+[16:29:56] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:30:00] [Server thread/INFO]: Stopping server
+[16:30:00] [Server thread/INFO]: Saving players
+[16:30:00] [Server thread/INFO]: Saving worlds
+[16:30:00] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
+[16:30:00] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
+[16:30:00] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
+[16:30:00] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:30:00] [Server thread/INFO]: Generating keypair
+[16:30:00] [Server thread/INFO]: Preparing start region for level 0
+[16:30:01] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:30:02] [Server thread/INFO]: ForgeDevName[local:E:a72175c3] logged in with entity id 24 at (32.85052538475938, 237.0, 146.5467690996633)
+[16:30:02] [Server thread/INFO]: ForgeDevName joined the game
+[16:30:05] [Server thread/INFO]: Saving and pausing game...
+[16:30:05] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
+[16:30:05] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
+[16:30:05] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
+[16:30:13] [Server thread/INFO]: Saving and pausing game...
+[16:30:13] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
+[16:30:13] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
+[16:30:13] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
+[16:30:14] [Server thread/INFO]: Stopping server
+[16:30:14] [Server thread/INFO]: Saving players
+[16:30:14] [Server thread/INFO]: Saving worlds
+[16:30:14] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Overworld
+[16:30:14] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/Nether
+[16:30:14] [Server thread/INFO]: Saving chunks for level 'Mod Testing(Flat)'/The End
+[16:30:19] [Client thread/INFO]: Stopping!
